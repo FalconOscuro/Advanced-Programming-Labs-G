@@ -1,5 +1,5 @@
 # Lab book build
-project(LabBook-B)
+project(LabBook-G)
 cmake_minimum_required(VERSION 3.16)
 
 message(STATUS "Preparing for LaTeX")
