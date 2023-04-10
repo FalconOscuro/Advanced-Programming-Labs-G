@@ -351,3 +351,6 @@ MigrationBackup/
 /Parasoft/.cpptest
 /Parasoft/.parasoft.dat/.solutions/Parasoft
 *.parasoft
+
+.vscode/
+[Bb]uild/
